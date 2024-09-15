@@ -1,0 +1,85 @@
+Team Name (Registered on Devfolio): Hack Wizards                    Theme: Open Innovation
+
+
+University/Institute name: MSIT                                 city/state: Delhi
+
+
+Problem Statement Title: Implementation of the Alumni Association platform for the University/Institute.
+
+
+We are solving the problem by creating an exclusive platform for alumni on web as well on mobile. This platform will serve the following :-
+
+●  Alumni can easily connect and participate in virtual and offline events, take mentor sessions.
+●  Alumni directory service for searching of alumni based on batch, location, domain, research etc.
+●  A donation portal where alumni can contribute to events or some other initiative of college
+●  Job portal where alumni can post job and other alumni can explore these opportunities.
+●  Hall of fame section for success of alumni which motivates new generation.
+●  Using Secure channels for payment like blockchain and latest encryption algorithms.
+●  College student can connect with alumni, join chat rooms, get advice, referral, and mentorship.
+● Helps college & university to boost their legacy.
+● Ai chatbot for smooth navigation and helpdesk
+
+
+
+
+Hack Wizards
+TECHNICAL APPROACH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@DeVHack Idea submission- Template
+
+
+
+Hack Wizards
+FEASIBILITY AND IMPACT
+
+
+
+●  Enhanced Engagement: Stronger alumni connections and community building.
+●  Increased Philanthropy: Easier donation processes encourage support.
+●  Career Advancement: Better job search and networking opportunities.
+●  Knowledge Sharing: Platform fosters sharing of achievements and expertise
+
+
+
+
+● Enhanced alumni engagement
+● Increased donations
+● Career advancement opportunities
+● Knowledge sharing and community building
+● Pride and recognition for alumni
+● Elevating Institute’s legacy
+
+
+
+
+
+@DeVHack Idea submission- Template
