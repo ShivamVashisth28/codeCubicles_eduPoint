@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import YoutubeSearch from '../components/youtube.jsx';
+import YoutubeSearch from '../components/Youtube.jsx';
 import PdfSearch from '../components/CustomSearch.jsx';
 import Quiz from '../components/Quiz.jsx';
 import Summarizer from '../components/Summarizer.jsx'; // Import Summarizer component
