@@ -43,7 +43,7 @@ function Pdf() {
     setError('');
     try {
       const prompt = `Summarize this ${textDataFromPDF} in easy language like you would explain this to a layman with some example and give the response in markdown with left align.`;
-      const response = await axios.post('http://localhost:5000/api/v1/ai/chat', { prompt });
+      const response = await axios.post('https://codecubicles-backend.onrender.com/api/v1/ai/chat', { prompt });
       setSummary(response.data.data);
     } catch (err) {
       setError('Failed to summarize text.');

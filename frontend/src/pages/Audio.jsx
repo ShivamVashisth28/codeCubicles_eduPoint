@@ -15,7 +15,7 @@ function AudioPlayer() {
     try {
       setLoading(true);
       
-      const response = await axios.post("http://localhost:5000/api/v1/ai/audio", {
+      const response = await axios.post("https://codecubicles-backend.onrender.com/api/v1/ai/audio", {
         text: topic,
       }, {
         responseType: 'blob',
