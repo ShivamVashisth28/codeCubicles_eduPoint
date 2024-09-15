@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import YoutubeSearch from '../components/youtube';
-import PdfSearch from '../components/CustomSearch';
-import Quiz from '../components/Quiz';
-import Summarizer from '../components/Summarizer'; // Import Summarizer component
+import YoutubeSearch from '../components/youtube.jsx';
+import PdfSearch from '../components/CustomSearch.jsx';
+import Quiz from '../components/Quiz.jsx';
+import Summarizer from '../components/Summarizer.jsx'; // Import Summarizer component
 
 function Learn() {
   const [option, setOption] = useState('');

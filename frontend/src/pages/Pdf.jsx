@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import Markdown from 'react-markdown';
-import Quiz from '../components/QuizFromPdf';
+import Quiz from '../components/QuizFromPdf.js';
 
 function Pdf() {
   const [file, setFile] = useState(null);

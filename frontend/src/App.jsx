@@ -1,7 +1,7 @@
-import AudioPlayer from "./pages/Audio"
-import Home from "./pages/Home"
-import Learn from "./pages/Learn"
-import Pdf from "./pages/Pdf"
+import AudioPlayer from "./pages/Audio.jsx"
+import Home from "./pages/Home.jsx"
+import Learn from "./pages/Learn.jsx"
+import Pdf from "./pages/Pdf.jsx"
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
 
 function App() {
